@@ -1,0 +1,1 @@
+./ccminer -a lyra2v2 -o stratum+tcp://lyra2v2.na.mine.zergpool.com:4533 -u anujaherath -p anuja@1212 
